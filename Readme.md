@@ -20,17 +20,17 @@ Hi there! I'm an AI Engineer passionate about leveraging cutting-edge deep learn
 
 ## 🚀 Projects
 
-- **[Object-Detection](https://github.com/expert-com/object-detection)**: Developed a machine learning model to detect fraudulent transactions with 98% accuracy using logistic regression and random forests.
+- **[Object-Detection](https://github.com/phantomwork/object-detection)**: Developed a machine learning model to detect fraudulent transactions with 98% accuracy using logistic regression and random forests.
 
   ![Object Detection](pictures/screenshot.png)
 
-- **[Image_Classification](https://github.com/expert-com/Image_Classification)**: Built a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset with TensorFlow and Keras.
+- **[Image_Classification](https://github.com/phantomwork/Image_Classification)**: Built a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset with TensorFlow and Keras.
 
   ![Android_ChatGPT](pictures/Androidgpt.jpg)
 
 ## 📈 GitHub Stats
-![expert-com's GitHub stats](https://github-readme-stats.vercel.app/api?username=expert-com&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expert-com&layout=compact&theme=radical)
+![phantomwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomwork&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomwork&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 - [Medium](https://medium.com/@fredqvarnstrom1)
@@ -38,4 +38,4 @@ Hi there! I'm an AI Engineer passionate about leveraging cutting-edge deep learn
 
 ---
 
-⭐️ From [expert-com](https://github.com/expert-com)
+⭐️ From [phantomwork](https://github.com/phantomwork)
